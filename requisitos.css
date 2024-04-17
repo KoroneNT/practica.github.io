@@ -11,6 +11,11 @@ body {
         color: #fff;
         padding: 10px 0;
     }
+
+    h3{
+    margin-left: 10px;
+    color: rgb(102, 102, 246);
+    }
     
     nav ul {
         background-color: #000000;
