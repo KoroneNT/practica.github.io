@@ -9,6 +9,11 @@ body{
     padding: 10px;
     text-align: center;
 }
+h3{
+    margin-left: 10px;
+    color: rgb(102, 102, 246);
+}
+
 .img{
     display: flex;
     justify-content: center;
